@@ -30,4 +30,5 @@ The goal is to make the website responsive for devices below *768px width*.
 - Responsive units like %, rem, vw  
 - How navbars collapse on small screens  
 - How Chrome DevTools helps test responsiveness  
-
+ ## Live Website
+ https://shreyah-7.github.io/Travel-Explorer/
