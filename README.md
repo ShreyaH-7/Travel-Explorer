@@ -1,4 +1,4 @@
-#  Responsive Website Using Media Queries (Task 4)
+#  Responsive Website Using Media Queries 
 
 This project converts a desktop-only webpage into a *mobile-friendly layout* using CSS media queries.  
 The goal is to make the website responsive for devices below *768px width*.
