@@ -32,3 +32,5 @@ The goal is to make the website responsive for devices below *768px width*.
 - How Chrome DevTools helps test responsiveness  
  ## Live Website
  https://shreyah-7.github.io/Travel-Explorer/
+ ## Website preview (Screenshot 2025-12-10 203140.png)
+ 
